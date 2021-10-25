@@ -5,7 +5,7 @@
   <a href="https://t.me/icdmkg">Telegram</a> |
   <a href="https://github.com/icdmkg2">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/816404400469835778/816411654584533033/unknown.png">
+  <img src="https://imgur.com/a/Cllia8f">
 </p>
 
 #
